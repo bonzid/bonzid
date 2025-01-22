@@ -10,4 +10,4 @@ Hi, I'm Doria! 👋 I'm 25 years old, and I'm from France. I'm pursuing a Master
 
 
 ## Let's connect?
-🤝 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to discuss ideas, projects, or opportunities! 
+🤝 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to discuss ideas or new projects! 
