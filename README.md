@@ -4,7 +4,7 @@
 
 I'm 25 years old, and I'm from France. I'm pursuing a Master's degree in Computational Linguistics (NLP), where I focus on LLMs and emotions in language processing.  
 
-🌸 Beyond my studies, I take great interest in art, gaming, and societal causes.
+Beyond my studies, I take great interest in art, gaming, and societal causes.
 
 
 ## What you'll find here
