@@ -12,13 +12,12 @@ Beyond my studies, I take great interest in art, gaming, and societal causes.
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonzid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonzid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
 
+<img align="right" width="150" height="150" src="hi.gif"  />
+
 ###
-
-<img align="right" height="140" src="hi.gif"  />
-
 ###
 
 <div align="left">
