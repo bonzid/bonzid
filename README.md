@@ -15,9 +15,9 @@ Beyond my studies, I take great interest in art, gaming, and societal causes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonzid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
 
-<img align="right" width="150" height="150" src="hi.gif"  />
+<img align="right" width="160" height="160" src="hi.gif"  />
 
-###
+
 ###
 
 <div align="left">
@@ -47,7 +47,7 @@ Beyond my studies, I take great interest in art, gaming, and societal causes.
 <a href="https://www.linkedin.com/in/doria-bonzi/" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="mailto:bonzidoria@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
-<br><br>
+
 
 ##
 
