@@ -17,7 +17,7 @@ Beyond my studies, I take great interest in art, gaming, and societal causes.
 
 ###
 
-<img align="right" height="150" src="hi.gif"  />
+<img align="right" height="140" src="hi.gif"  />
 
 ###
 
