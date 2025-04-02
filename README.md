@@ -2,7 +2,7 @@
 
 ###
 
-I'm 25 years old, and I'm from France. I'm pursuing a Master's degree in Computational Linguistics (NLP), where I focus on LLMs and emotions in language processing.  
+I'm 25 years old, and I'm from France. I'm pursuing a Master's degree in Computational Linguistics (NLP), where I focus on LLMs and biaises.  
 
 Beyond my studies, I take great interest in art, gaming, and societal causes.
 
