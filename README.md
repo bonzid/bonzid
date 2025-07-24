@@ -2,7 +2,7 @@
 
 ###
 
-I'm 25 years old, and I'm from France. I'm pursuing a Master's degree in Computational Linguistics (NLP and Data Science).  
+I'm pursuing a Master's degree in Computational Linguistics (NLP and Data Science).  
 
 ## What you will find here
 💻 This GitHub features a mix of projects from my academic journey and personal explorations. You'll find some **Python** scripts, **PHP** applications and **web development** projects.
