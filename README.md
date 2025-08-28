@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Doria</h1>
+<h1 align="center">Hi there, I'm Doria!</h1>
 
 ###
 
-I'm pursuing a Master's degree in Computational Linguistics (NLP and Data Science).  
-
-## What you will find here
-💻 This GitHub features a mix of projects from my academic journey and personal explorations. You'll find some **Python** scripts, **PHP** applications and **web development** projects.
+I'm pursuing a Master's degree in Computational Linguistics (NLP and Data Science). This GitHub features a mix of projects from my academic journey and personal explorations. You'll find some **Python** scripts, **PHP** applications and **web development** projects.
+I'm always open to new opportunities and collaborations. Feel free to reach out!:)
 
 
 <div align="center">
@@ -38,14 +36,3 @@ I'm pursuing a Master's degree in Computational Linguistics (NLP and Data Scienc
 </div>
 
 ###
-
-
-<div align="left">
-<a href="https://www.linkedin.com/in/doria-bonzi/" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="mailto:bonzidoria@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-</div>
-
-
-##
-
-🤝 I'm always open to new opportunities and collaborations. Feel free to reach out!
