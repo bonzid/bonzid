@@ -2,8 +2,8 @@
 
 ###
 
-I'm pursuing a Master's degree in Computational Linguistics (NLP and Data Science). This GitHub features a mix of projects from my academic journey and personal explorations. You'll find some **Python** scripts, **PHP** applications and **web development** projects.
-I'm always open to new opportunities and collaborations. Feel free to reach out!:)
+I'm a PhD student in Computer Science at Université de Lorraine (France). My research focuses on Natural Language Processing (NLP), with a particular interest in LLMs for healthcare and social conversational systems.
+On this GitHub, you’ll find a mix of projects from my academic work and personal explorations, including Python scripts, NLP pipelines, and web applications. I'm always open to new opportunities and collaborations, feel free to reach out! :)
 
 
 <div align="center">
