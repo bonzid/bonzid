@@ -6,13 +6,7 @@ I'm a PhD student in Computer Science at Université de Lorraine (France). My re
 
 On this GitHub, you’ll find a mix of projects from my academic work and personal explorations, including Python scripts, NLP pipelines, and web applications. I'm always open to new opportunities and collaborations, feel free to reach out! :)
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonzid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="150" alt="languages graph"/>
-</div>
-
 <img align="right" width="160" height="160" src="hi.gif"  />
-
 
 ###
 
